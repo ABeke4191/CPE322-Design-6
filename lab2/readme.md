@@ -9,5 +9,5 @@ Ran several console commands & created nano file
 ![CMD entry 6](lab2_cmd6.png)
 
 ## Nano file
-(Nano file contains the text "Huh????" but I forgot to screenshot it after I added it)
+Nano file contains the text "Huh????" but I forgot to screenshot it after I added it
 ![Nano file](lab2_nano.png)
