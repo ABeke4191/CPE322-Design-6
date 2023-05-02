@@ -1,4 +1,4 @@
-# Lab 6 Results
+# Lab 5 Results
 Installed MQTT, verified its installation with a hello world project, and ran a mycpu program, both with two terminals.
 
 ## MQTT installation test / hello world
